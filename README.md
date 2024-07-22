@@ -18,7 +18,7 @@ ranging from Genomics, Proteomics and Structure Biology use cases to Google Play
 
 - 📫 How to reach me **tyagi.reegi99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1raN-XZomBCq3Efr-Ljj2kBZN1LoaqVjt/view?usp=sharing](https://drive.google.com/file/d/1raN-XZomBCq3Efr-Ljj2kBZN1LoaqVjt/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1CrVKMBHkHT3RTb_zMUTuRqUgCb3-_RGZ/view?usp=sharing)
 
 - ⚡ Fun fact **I love writing poetry**
 
