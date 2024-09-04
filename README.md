@@ -1,24 +1,17 @@
-![logo](https://github.com/user-attachments/assets/25cfdb86-c9f2-4ea9-9051-c693c2b42a80)
 
 <h1 align="center">Hi 👋, I'm Reegina Tyagi</h1>
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<h3 align="center">A passionate Computational Biologist from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/67431758/228056875-1a89863f-e326-4117-a8f3-bc65651620c5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reeginatyagi&label=Profile%20views&color=0e75b6&style=flat" alt="reeginatyagi" /> </p>
 
 🌱 Welcome to my Github! 
 
-My projects cover Data Analytics and Data Science topics (Machine Learning, NLP), 
-ranging from Genomics, Proteomics and Structure Biology use cases to Google Play Store Customer Reviews of cosmetic and skincare brand apps
+My projects cover MD Simulation, Amber, VMD, and Machine Learning in Genomics, Proteomics and Structure Biology use cases.
 
-- 🌱 I’m currently learning **Data Science using ChatGPT**
-
-- 💬 Ask me about **Data, Data Science, Machine Learning, Deep Learning, Power BI, python, R, SQL**
+- 💬 Ask me about **Protein Data, Amber, MD simulation, VMD, cancer prediction, Data Science, Machine Learning, Deep Learning, Power BI, python, R, **
 
 - 📫 How to reach me **tyagi.reegi99@gmail.com**
-
-- 📄 Know about my experiences [https://bit.ly/3YdjG8v](https://bit.ly/3YdjG8v)
 
 - ⚡ Fun fact **I love writing poetry**
 
