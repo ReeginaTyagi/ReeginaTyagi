@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/25cfdb86-c9f2-4ea9-9051-c693c2b42a80)
+![logo](https://github.com/user-attachments/assets/25cfdb86-c9f2-4ea9-9051-c693c2b42a80)![logo](https://github.com/user-attachments/assets/25cfdb86-c9f2-4ea9-9051-c693c2b42a80)
 
 <h1 align="center">Hi 👋, I'm Reegina Tyagi</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
@@ -9,12 +9,11 @@
 
 🌱 Welcome to my Github! 
 
-My projects cover Data Analytics and Data Science topics (Machine Learning, NLP), my projects range from 
- Genomics and proteomics to sentiment analysis use cases.
+My projects cover Data Analytics and Data Science topics (Machine Learning, NLP), ranging from Genomics, Proteomics and Structure Biology use cases to Google Play Store Customer Reviews of cosmetic and skincare brand apps
 
 - 🌱 I’m currently learning **Data Science using ChatGPT**
 
-- 💬 Ask me about **protein Data, Amber, MD simulation, VMD, cancer prediction, Data Science, Machine Learning, Deep Learning, Power BI, python, R, **
+- 💬 Ask me about **Data, Data Science, Machine Learning, Deep Learning, Power BI, python, R, SQL**
 
 - 📫 How to reach me **tyagi.reegi99@gmail.com**
 
