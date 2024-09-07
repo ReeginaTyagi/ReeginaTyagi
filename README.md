@@ -1,4 +1,4 @@
-![logo](https://github.com/user-attachments/assets/25cfdb86-c9f2-4ea9-9051-c693c2b42a80)![logo](https://github.com/user-attachments/assets/25cfdb86-c9f2-4ea9-9051-c693c2b42a80)
+![logo](https://github.com/user-attachments/assets/25cfdb86-c9f2-4ea9-9051-c693c2b42a80)
 
 <h1 align="center">Hi 👋, I'm Reegina Tyagi</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
